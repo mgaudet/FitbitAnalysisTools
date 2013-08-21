@@ -24,7 +24,7 @@ This isn't well packaged, but hopefully the instructions will help.
 
 2. Add the file FitbitDataFetch/src/FitbitTest.java
 
-3. Download the two projects, jFitbit and cg-jcommons. Both can be built with maven using `mvn package`, and will produce `.jar` files in target/. Add these jars to the Java build path for your eclipse project. Download the binary package of `http-coponents`, and add the jars in lib/ to your build path. 
+3. Download the two projects, jFitbit and cg-jcommons. Both can be built with maven using `mvn package`, and will produce `.jar` files in target/. Add these jars to the Java build path for your eclipse project. Download the binary package of `http-components`, and add the jars in lib/ to your build path. 
 
 4. Modfify the source of FitbitTest.java to use your username and password. 
 
